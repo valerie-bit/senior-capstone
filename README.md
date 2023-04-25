@@ -8,3 +8,6 @@
 
 
 #valerie-tseng-capstone-proposal.ipynb --> code
+
+
+#valerie-tseng-capstone-proposal.ipynb --> code draft
